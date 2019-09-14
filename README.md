@@ -63,4 +63,4 @@ To make webpack tree shaking work without using any minifier, you can use the pe
 ## Author
 
 **vue-sailor-icons** © [katalonne](https://github.com/katalonne), Released under the [MIT](./LICENSE) License.<br>
-Highly inspired by ([vue-feather-iconsst](https://github.com/egoist/vue-feather-icons)).
+Highly inspired by ([vue-feather-icons](https://github.com/egoist/vue-feather-icons)).

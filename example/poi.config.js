@@ -1,7 +1,8 @@
 module.exports = {
   entry: 'example/index.js',
   output: {
-    dir: 'example/dist',
+    // dir: 'example/dist',
+    dir: 'docs',
     publicUrl: '/'
   },
   chainWebpack(config) {
