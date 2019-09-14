@@ -28,9 +28,6 @@ By default, icons will be sized based on the font size of the parent element.
 You can set a custom size using the `size` attribute. 
 For multiple based sizing, pass the desired multiple followed by an `x`.
 
-By default, icons' color is `#000`.
-You can set a custom color using the `color` attribute.
-
 ```html
 <anchor-icon size="2.5x" class="custom-class"></anchor-icon> 
 ```
@@ -39,6 +36,13 @@ You can also set a `px` size directly by just passing an integer
 
 ```html
 <anchor-icon size="24" class="custom-class"></anchor-icon> 
+```
+
+By default, icons' color is `#000`.
+You can set a custom color using the `color` attribute.
+
+```html
+<anchor-icon size="2.5x" color="blue"></anchor-icon> 
 ```
 
 ## Tree shaking
