@@ -41,7 +41,7 @@ export default {
 
 const handleComponentName = name => name.replace(/\-(\d+)/, '$1')
 const withFill = svg => {
-  const dom = new JSDOM(`<!DOCTYPE html><div>${svg}<div>`);
+  const dom = new JSDOM(`<!DOCTYPE html>${svg}`);
   const newSvg = dom.window.document.querySelector("svg");
   const svgChildrenElems = newSvg.children
   Array.from(svgChildrenElems).forEach(el => {
