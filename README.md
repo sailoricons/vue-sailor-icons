@@ -1,7 +1,9 @@
 # vue-sailor-icons
 
-[![NPM version](https://img.shields.io/npm/v/vue-sailor-icons.svg?style=flat)](https://npmjs.com/package/vue-sailor-icons) [![NPM downloads](https://img.shields.io/npm/dm/vue-sailor-icons.svg?style=flat)](https://npmjs.com/package/vue-sailor-icons) [![CircleCI](https://circleci.com/gh/katalonne/vue-sailor-icons/tree/master.svg?style=shield)](https://circleci.com/gh/katalonne/vue-sailor-icons/tree/master)
-
+[![NPM version](https://img.shields.io/npm/v/vue-sailor-icons.svg?style=flat)](https://npmjs.com/package/vue-sailor-icons) 
+[![NPM downloads](https://img.shields.io/npm/dm/vue-sailor-icons.svg?style=flat)](https://npmjs.com/package/vue-sailor-icons) 
+[![CircleCI](https://circleci.com/gh/katalonne/vue-sailor-icons/tree/master.svg?style=shield)](https://circleci.com/gh/katalonne/vue-sailor-icons/tree/master)
+[![HitCount](http://hits.dwyl.io/sailoricons/vue-sailor-icons.svg)](http://hits.dwyl.io/sailoricons/vue-sailor-icons)
 ## Install
 
 ```bash
